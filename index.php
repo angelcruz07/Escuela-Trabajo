@@ -1,3 +1,3 @@
 <?php
-header ("Location:mostrar_estudiantes.php")
+header ("Location: php/mostrar_estudiantes.php")
 ?>
